@@ -14,8 +14,8 @@ export default function QuickStart() {
     contractAddress: "0xC34541DEec223F4a24bD7Eeda28D56cA16c927fd",
     params: {
       account,
-      kingdomName: document.getElementById('kingdomName').setAttribute("disabled", null),
-      uri: "pldosksmmm",
+      kingdomName: "My Kingdom",
+      uri: "www.loremipsum.com",
     },
   });
 
